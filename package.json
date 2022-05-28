@@ -11,8 +11,8 @@
     "@types/firebase": "^3.2.1"
   },
   "scripts": {
-    "start": "nodemon build/index.js",
-    "prod": "node build/index.js"
+    "start-dev": "nodemon build/index.js",
+    "start": "node build/index.js"
   }
 }
 
